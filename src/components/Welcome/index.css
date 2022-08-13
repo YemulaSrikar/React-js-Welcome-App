@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.cont {
+  background-color: #1e293b;
+  height: 100vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.welcome-text {
+  font-family: 'Bree Serif';
+  font-size: 40px;
+  color: #f0bb03;
+}
+.tqu-text {
+  font-family: 'Bree Serif';
+  font-size: 27px;
+  color: #ffffff;
+}
+.sub-button {
+  background-color: #ffffff;
+  color: #1e293b;
+  height: 30px;
+  width: 100px;
+  border-width: 0px;
+  border-radius: 10px;
+}
